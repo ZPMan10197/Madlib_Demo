@@ -2,4 +2,8 @@
 
 ## Happy Birthday to Me!
 
-Talk about text files you want to edit
+A small python project demonstrating input variables and string interpolation. 
+
+# Usage
+
+python3 app.py
