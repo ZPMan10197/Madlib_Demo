@@ -4,6 +4,6 @@
 
 A small python project demonstrating input variables and string interpolation. 
 
-# Usage
+## Usage
 
 python3 app.py
