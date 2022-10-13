@@ -2,7 +2,8 @@
 
 ## Happy Birthday to Me!
 
-A small python project demonstrating input variables and string interpolation. 
+A small python project demonstrating input variables and string interpolation. Learning how to use Git and link projects 
+with my account.
 
 ## Usage
 
