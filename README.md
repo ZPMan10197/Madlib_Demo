@@ -8,3 +8,5 @@ with my account.
 ## Usage
 
 python3 app.py
+
+Input the variables with strings of your choice! 
